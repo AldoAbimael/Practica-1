@@ -1,0 +1,33 @@
+# Entorno virtual de Python
+venv/
+.venv/
+env/
+ENV/
+
+# Archivos de caché y compilados
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Salidas generadas por los scripts de ejemplo
+output/
+*.pdf
+*.png
+examples/output/
+temp_*.csv
+
+# Variables de entorno y configuración local
+.env
+.env.local
+
+# IDEs y editores
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db

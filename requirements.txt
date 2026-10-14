@@ -1,0 +1,20 @@
+# Dependencias externas del proyecto
+# Generación de documentos PDF
+fpdf2>=2.7.9
+reportlab>=4.1.0
+
+# Procesamiento numérico y análisis de datos
+numpy>=1.26.0
+pandas>=2.2.0
+
+# Visualización gráfica de datos
+matplotlib>=3.8.0
+
+# Cliente HTTP y consumo de APIs REST
+requests>=2.31.0
+
+# Framework web y microservicios REST
+flask>=3.0.0
+
+# Aprendizaje automático (Machine Learning)
+scikit-learn>=1.4.0
